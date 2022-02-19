@@ -1,0 +1,15 @@
+{
+  "name": "yaak-thai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "minify main.js > main.min.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "minify": "^8.0.4"
+  }
+}
